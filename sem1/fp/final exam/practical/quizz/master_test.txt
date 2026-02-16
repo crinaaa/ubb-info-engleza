@@ -1,0 +1,4 @@
+3;What is a hard history question with ID 3?;Option 1;Option 2;Option 3;2;hard
+4;What is a easy logic question with ID 4?;Option 1;Option 2;Option 3;1;easy
+5;What is a hard biology question with ID 5?;Option 1;Option 2;Option 3;2;hard
+6;What is a medium literature question with ID 6?;Option 1;Option 2;Option 3;2;medium

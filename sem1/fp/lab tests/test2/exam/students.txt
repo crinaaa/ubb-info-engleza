@@ -1,0 +1,10 @@
+101, badescu mihai, 13, 9
+102, avram ionut, 13, 9
+103, vaxim raluca, 12, 8
+104, popescu roxana, 10, 8
+105, popescu andrei, 10, 6
+106, popescu marius, 8, 8
+107, micu matei, 14, 5
+108, micu alexia, 11, 8
+109, micu maria, 5, 8
+110, marius ioan, 12, 5
