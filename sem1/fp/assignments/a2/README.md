@@ -1,5 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/EkJiZBBD)
-# 💻 Assignment 02 - Searching. Sorting
+💻 Assignment 02 - Searching. Sorting
 
 ## Requirements
 Implement a menu-driven console application to help visualize the way searching and sorting algorithms work. You will be given one search algorithm and two sorting algorithms from the list below to implement (one from each of the three sets). When started, the program will print a menu with the following options:
@@ -21,26 +20,12 @@ Implement a menu-driven console application to help visualize the way searching 
 - You may use Internet resources to research the searching and sorting algorithm, but you must be able to explain **how** and **why** they work in detail.
 
 ## Searching algorithms
-- Binary search (iterative implementation)
-- Binary search (recursive implementation)
-- Jump search (also known as block search)
-- Exponential search
 - Interpolation search (using linear interpolation)
 
 ## Sorting algorithms 
 ### Basic set
-- Bogosort
-- Bubble Sort
-- Cocktail Sort
-- Exchange Sort
-- Insert Sort
 - Permutation Sort
-- Selection Sort
 
 ### Advanced set
 - Comb Sort
-- Gnome Sort
-- Heap Sort
-- Shell Sort
-- Strand Sort
-- Stooge Sort
+

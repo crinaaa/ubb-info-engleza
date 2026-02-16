@@ -1,5 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/qO8T7u55)
-# 💻 Assignment 08 - Classes and objects
+💻 Assignment 08 - Classes and objects
 ## Requirements
 
 - You will be given one of the problems below to solve
@@ -14,30 +13,6 @@
 - Deadline for maximum grade is **week 10**.
 
 ## Problem Statements
-### 1. Complex numbers
-Manage a list of complex numbers in `a+bi` form and provide the user the following features:
-1. Add a number. The number is read from the console.
-2. Display the list of numbers.
-3. Filter the list so that it contains only the numbers between indices `start` and `end`, where these values are read from the console.
-4. Undo the last operation that modified program data. This step can be repeated. The user can undo only those operations made during the current run of the program.
-
----
-### 2. Expenses
-Manage a list of expenses. Each expense has a `day` (integer between 1 and 30), `amount` of money (positive integer) and expense `type` (string). Provide the following features:
-1. Add an expense. Expense data is read from the console.
-2. Display the list of expenses.
-3. Filter the list so that it contains only expenses above a certain value read from the console.
-4. Undo the last operation that modified program data. This step can be repeated. The user can undo only those operations made during the current run of the program.
-
----
-### 3. Students
-Manage a list of students. Each student has an `id` (integer, unique), a `name` (string) and a `group` (positive integer). Provide the following features:
-1. Add a student. Student data is read from the console.
-2. Display the list of students.
-3. Filter the list so that students in a given group (read from the console) are deleted from the list.
-4. Undo the last operation that modified program data. This step can be repeated. The user can undo only those operations made during the current run of the program.
-
----
 ### 4. Books
 Manage a list of books. Each book has an `isbn` (string, unique), an `author` and a `title` (strings). Provide the following features:
 1. Add a book. Book data is read from the console.
@@ -54,5 +29,3 @@ Manage a list of books. Each book has an `isbn` (string, unique), an `author` an
 ## Bonus possibility (0.1p, deadline week 10)
 - Use a `settings.properties` file to decide which of the repository implementations to use. At startup, the program reads this input file and instantiates the correct repository. This allows changing the program's input file format without changing its source code.
 
-## Bonus possibility (0.1p, deadline week 10)
-- Implement a database-backed (SQL or NoSQL) repository. Use the database system’s update functionalities properly (don’t rewrite the entire database at each operation).

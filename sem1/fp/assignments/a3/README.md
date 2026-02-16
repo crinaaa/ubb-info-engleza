@@ -1,5 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/I5w8wV8F)
-# :computer: Assignment 03 - Algorithm Complexity
+💻 Assignment 03 - Algorithm Complexity
 
 ## Requirements
 - Calculate the complexity of the search and sorting algorithms you've implemented for the previous assignment. You may use additional resources for help, but you have to understand and be able to explain the complexity for both the **best case** as well as **worst case**. You can show this on screen or written on paper.
