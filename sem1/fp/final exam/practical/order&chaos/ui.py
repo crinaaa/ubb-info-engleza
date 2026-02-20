@@ -20,9 +20,8 @@ class ConsoleUI:
                 print("No save file found. Starting new game.")
 
         while True:
-            print(self._service)  # Uses the __str__ method with Texttable
+            print(self._service) 
 
-            # User Input
             inp = input("Enter row, col, symbol (e.g., 0 0 X) or 'save': ").split()
 
             if inp[0] == "exit":
