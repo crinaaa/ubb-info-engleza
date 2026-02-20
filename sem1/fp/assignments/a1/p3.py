@@ -35,7 +35,7 @@ def main():
     n=int(input("Enter a natural number n: "))
     m=largest_number(n)
     if m is not None:
-        print("The largest parfect number smaller than", n, "is", m)
+        print("The largest perfect number smaller than", n, "is", m)
     else:
         print("A perfect smaller number than", n, "DOES NOT exist.")
 
